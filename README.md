@@ -1,4 +1,4 @@
-## Olá, eu sou o Artur Rezende, Profissional na area de química em transição de carreira para área de tecnologia, com foco em desenvolvimento back end. 
+## Olá, meu nome é Artur Rezende, Profissional formado na área de química em transição de carreira para área de tecnologia, com foco em desenvolvimento back end. 
 <div align="center">
   <a href="https://github.com/arturtiska">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=arturtiska&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
